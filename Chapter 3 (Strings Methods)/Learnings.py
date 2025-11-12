@@ -1,5 +1,5 @@
 """String methods"""
-demo = "Software \n \t Quality \n \t \tQssuarance"
+# demo = "Software \n \t Quality \n \t \tQssuarance"
 # print(len(demo))
 # first_demo = demo[0:7:2]
 # # print(demo[0:4])
@@ -13,4 +13,11 @@ demo = "Software \n \t Quality \n \t \tQssuarance"
 
 # print(demo.title())
 
-print(demo)
+# print(demo)
+
+name = "Talha Khalil"
+# print(name.upper())
+# print(name.lower())
+
+# stripped = name.removeprefix("talha ")
+# print(stripped)
