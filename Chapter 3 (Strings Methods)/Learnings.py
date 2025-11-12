@@ -15,7 +15,7 @@
 
 # print(demo)
 
-name = "Talha Khalil"
+# name = "Talha Khalil"
 # print(name.upper())
 # print(name.lower())
 
