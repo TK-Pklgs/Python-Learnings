@@ -1,6 +1,6 @@
 """Looping Through a List"""
 # numbers_list = [945, 976, 114, 20, 343, 688, 601, 193, 92, 104, 512, 231, 77, 845, 667, 430, 28, 999, 402, 215]
-strings_list = [ 'alice', 'charlie', 'frank', 'ivan', 'bob', 'Hannah', 'David', 'Grace', 'Eva', 'Julia']
+# strings_list = [ 'alice', 'charlie', 'frank', 'ivan', 'bob', 'Hannah', 'David', 'Grace', 'Eva', 'Julia']
 
 # for names in strings_list:
 #     print(f"{names.title()}, You are a great magician!")
